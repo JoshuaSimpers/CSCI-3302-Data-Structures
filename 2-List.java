@@ -1,6 +1,7 @@
 // Name: Joshua Simpers
-// CSCI 3302
-// In class example for ADT List (now usng Generics)
+// File: 2-List.java
+// Class: CSCI 3302
+// ADT List (now usng Generics)
 // 9/22/2025
 //
 // A List puts items in order (not necessarily sorted). 
@@ -151,6 +152,7 @@ public class List<T> {
         System.out.println("Does the Integer list contain 35? " + testListInteger.contains(35));
         System.out.println("Does the String list contain 'I am Sixty-Three'? " + testListString.contains("I am Sixty-Three"));
     }
+
 
 
 
