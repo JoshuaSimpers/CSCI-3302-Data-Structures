@@ -1,7 +1,7 @@
 // CSCI 3302 - HW1G
 // Luis Rangel, Joshua Simpers
 // 9/15/2025
-// File: Payroll.java
+// File: HW1G.java
 //
 // Using recursion to solve problems
 
