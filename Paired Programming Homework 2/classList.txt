@@ -1,0 +1,7 @@
+First Name, Last Name, Academic Level, Address, Email, Major, Preferred Name
+Luis, Rangel, Sophomore, 1234 Test Street, test@test.com, Computer Science, Luis
+Joshua, Simpers, Sophomore, 5678 Test Drive, fake@test.com, Computer Science, Josh
+James, Sunderland, Graduate, Room 302, jsunderland@mail.com, Accounting, James
+John, Smith, Freshman, 1234 Fake St., johnsmith@someschool.net, General Studies, John
+Darth, Vader, Graduate, Death Star, darthvader@evil.net, Sith Studies, Vader
+Luke, Skywalker, Senior, Tattooine, lskywalker@jedi.com, Rebel Leadership, Luke
